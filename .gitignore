@@ -2,7 +2,9 @@
 .gradle
 build/
 *.iml
-
+/.gradle
+build
+/.build
 local.properties
 
 *xcuserdata
